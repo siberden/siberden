@@ -19,7 +19,7 @@
 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Berkuk+Karacay+GitHub;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Welcome+Berkuk+Karacay+GitHub)
 <!--   
 <h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | Javascript| JDBC | API | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
@@ -72,10 +72,18 @@
 
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
-
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/berkukkaracay)
 
 
