@@ -85,6 +85,8 @@
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+soul+which+has+no+fixed+purpose++Michel+de+Montaigne" alt="Typing SVG" /></a>
+
 
 
 
