@@ -85,7 +85,7 @@
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+soul+which+has+no+fixed+purpose++Michel+de+Montaigne" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=500&color=4C7BF7&multiline=true&height=53&lines=The+soul+which+has+no+fixed+purpose+;in+life+is+lost%3A+to+be+everywhere%2C+;is+to+be+nowhere.+Michel+de+Montaigne;Sphinx+of+black+quartz%2C+judge+my+vow" alt="Typing SVG" /></a>
 
 
 
