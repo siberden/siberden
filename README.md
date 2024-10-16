@@ -85,7 +85,7 @@
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=3000&pause=500&color=C1F754&multiline=true&width=600&height=53&lines=The+soul+which+has+no+fixed+purpose+in+life+is+lost%3A+to+be+everywhere%2C+;in+life+is+lost%3A+to+be+everywhere%2C+is+to+be+nowhere.+Michel+de+Montaigne" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=3000&pause=500&color=C1F754&multiline=true&width=600&height=53&lines=The+soul+which+has+no+fixed+purpose+in+life+is+lost%3A+to+be+everywhere%2C+;in+life+is+lost%3A+to+be+everywhere%2C+is+to+be+nowhere.+Michel+de+Montaigne" alt="Typing SVG" /></a>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
