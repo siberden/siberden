@@ -1,9 +1,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiberden%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-### </path></svg></a> I'm currently working on Javascript, SQL and webdriverIO
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+### </path></svg></a> I'm currently working on Javascript, SQL and webdriverIO
 
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="left"/> 
