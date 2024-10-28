@@ -3,7 +3,8 @@
 
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-### </path></svg></a> I'm currently working on Javascript, SQL and webdriverIO
+### </path></svg></a> I'm currently working on 
+Python, SQL and webdriverIO
 
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="left"/> 
