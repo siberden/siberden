@@ -66,8 +66,6 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
 
 </div>
 
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
@@ -79,8 +77,6 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
