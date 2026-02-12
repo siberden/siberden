@@ -5,8 +5,14 @@
 Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit, and Maven. Integrated with GitHub Actions for continuous integration.
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiberden%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiberden%2Flogin-performance-automation-framework&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
+
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif"/>
+</p>
+
 
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
