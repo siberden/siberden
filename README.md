@@ -34,13 +34,7 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
 - Response time threshold validation
 - Config-driven execution
 
----
 
-## ▶️ Run Locally
-
-Clone the repository:
-
-```bash
 git clone https://github.com/siberden/login-performance-automation-framework.git
 cd login-performance-automation-framework
 
