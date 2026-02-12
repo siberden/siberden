@@ -4,41 +4,6 @@
 
 Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit, and Maven. Integrated with GitHub Actions for Continuous Integration.
 
----
-
-## 🚀 Tech Stack
-
-- Java 17
-- Selenium WebDriver
-- Cucumber (BDD)
-- JUnit 4
-- Maven
-- GitHub Actions (CI/CD)
-
----
-
-## 🧱 Architecture
-
-- Page Object Model (POM)
-- ThreadLocal-based Performance Context
-- API + UI hybrid test structure
-- Separation of Steps and Assertions
-- CI pipeline with automated test execution
-
----
-
-## 🧪 Test Coverage
-
-- UI login validation
-- API login performance measurement
-- Response time threshold validation
-- Config-driven execution
-
-
-git clone https://github.com/siberden/login-performance-automation-framework.git
-cd login-performance-automation-framework
-
-
 <p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif"/>
 </p>
