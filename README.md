@@ -78,6 +78,22 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
 
 
 
+</div>
+
+
+
+
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
+@@ -80,8 +78,6 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
+
+
+
+
+
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+
+<p align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 <p align="center">
