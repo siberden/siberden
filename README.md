@@ -1,6 +1,6 @@
 # Login Performance Automation Framework
 
-![CI](https://github.com/siberden/login-performance-automation-framework/actions/workflows/maven.yml/badge.svg)
+[![Java CI - Maven Automation](https://github.com/siberden/login-performance-automation-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/siberden/login-performance-automation-framework/actions/workflows/ci.yml)
 
 Selenium + Cucumber + API Performance validation framework.
 
