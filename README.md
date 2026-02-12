@@ -4,12 +4,6 @@
 
 Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit, and Maven. Integrated with GitHub Actions for Continuous Integration.
 
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif"/>
-</p>
-
-
-
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ### </path></svg></a> I'm currently working on Python, SQL and Playwright
 
@@ -40,7 +34,7 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
 
 <br>
 
- <div align="center"> 
+ <div align="left"> 
   <a href="https://www.youtube.com/@siberden" target="_blank">
     <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
   </a>
@@ -67,37 +61,6 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
 </div>
 
 
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
-
-
-
-</div>
-
-
-
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-
-<p align="center">
- 
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=siberden&theme=dark&background=000000"/>
- 
-</p>
- 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <a href="https://git.io/typing-svg"><p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=14&duration=3000&pause=800&color=C1F754&multiline=true&width=600&height=53&separator=%3C&lines=The+soul+that+has+no+fixed+purpose+in+life+is+lost;%3Cto+be+everywhere+is+to+be+nowhere.+-+Michel+de+Montaigne" alt="Typing SVG" /></a>
 
