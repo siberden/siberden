@@ -1,4 +1,6 @@
-# Login Performance Automation Framework
+# QA Automation Engineer specializing in scalable UI & API test architecture.
+Focused on building maintainable test frameworks with CI/CD integration.
+
 
 ![CI](https://github.com/siberden/login-performance-automation-framework/actions/workflows/ci.yml/badge.svg?branch=main)
 
