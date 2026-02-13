@@ -9,8 +9,7 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ### </path></svg></a> I'm currently working on Python, SQL and Playwright
 
-<div id="header" align="right">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="left"/> 
+
 
 
 
@@ -22,8 +21,7 @@ Hybrid UI + API automation framework built with Selenium, Cucumber (BDD), JUnit,
 
 
 
-<!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Welcome+to+Berkuk+Karacay's+GitHub)
+
    
 <!--<h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | Javascript| JDBC | API | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
