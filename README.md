@@ -34,17 +34,33 @@ Focused on building maintainable test frameworks integrated with CI/CD pipelines
 ## 🛠️ Languages & Tools
 
 <p align="left">
+  <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+
+  <!-- UI Automation -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>
+
+  <!-- Testing / QA -->
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="40"/> <!-- Cucumber -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit5.svg" width="40"/>
+  <img src="https://jmeter.apache.org/images/logo.svg" width="40"/>
+
+  <!-- DevOps / Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/> <!-- Maven -->
+
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+
+  <!-- Other -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
 </p>
 
