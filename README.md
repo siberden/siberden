@@ -1,8 +1,40 @@
 # Berkuk Karacay  
 ### QA Automation Engineer | SDET
 
-🚀 QA Automation Engineer with 2+ years of experience building scalable UI & API test frameworks.  
-Focused on delivering reliable, maintainable automation integrated with CI/CD pipelines for real-world applications.
+QA Automation Engineer with 2+ years of experience designing and implementing scalable UI & API test automation frameworks.  
+Passionate about ensuring software quality through reliable, maintainable, and CI/CD-integrated automation solutions.
+
+---
+
+### 🧪 Core Skills & Experience
+
+- 🚀 **Primary Stack:** Python, Pytest, Selenium  
+  - Building robust end-to-end automation frameworks  
+
+- 🧩 **BDD Automation:** Java, Cucumber, Gherkin  
+  - Writing readable, business-driven test scenarios  
+
+- 🔌 **API Testing:** Postman  
+  - Validating backend services and integrations  
+
+- 🗄️ **Data Validation:** SQL  
+  - Ensuring data integrity across systems  
+
+- 📱 **Mobile Testing:** Android Studio  
+
+- ⚡ **Modern Tools:** Playwright (basic experience)  
+
+- 🔄 **CI/CD Integration:**  
+  - Automation integrated into real-world pipelines  
+
+---
+
+### 🎯 Focus
+
+Delivering high-quality software through:
+- Scalable test architecture  
+- Reliable and maintainable automation  
+- End-to-end quality assurance across UI, API, and mobile platforms  
 
 ---
 
