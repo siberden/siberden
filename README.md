@@ -2,17 +2,17 @@
 ### QA Automation Engineer | SDET
 
 QA Automation Engineer with 2+ years of experience designing and implementing scalable UI & API test automation frameworks.  
-Passionate about ensuring software quality through reliable, maintainable, and CI/CD-integrated automation solutions.
+Passionate about ensuring software quality through **reliable, maintainable, and CI/CD-integrated automation solutions**.
 
 ---
 
 ### 🧪 Core Skills & Experience
 
 - 🚀 **Primary Stack:** Python, Pytest, Selenium  
-  - Building robust end-to-end automation frameworks  
+  - Building **robust end-to-end automation frameworks**  
 
 - 🧩 **BDD Automation:** Java, Cucumber, Gherkin  
-  - Writing readable, business-driven test scenarios  
+  - Writing **readable, business-driven test scenarios**  
 
 - 🔌 **API Testing:** Postman  
   - Validating backend services and integrations  
@@ -25,7 +25,7 @@ Passionate about ensuring software quality through reliable, maintainable, and C
 - ⚡ **Modern Tools:** Playwright (basic experience)  
 
 - 🔄 **CI/CD Integration:**  
-  - Automation integrated into real-world pipelines  
+  - Automation integrated into **real-world pipelines**  
 
 ---
 
@@ -53,7 +53,7 @@ Delivering high-quality software through:
 ### 🔹 Python + Playwright + Pytest
 - Modern UI automation framework  
 - Built with **Playwright, Pytest, Allure Reporting**  
-- Designed for scalable and maintainable test structure  
+- Designed for **scalable and maintainable test structure**  
 - Integrated with **GitHub Actions** for continuous testing  
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
@@ -96,21 +96,21 @@ Delivering high-quality software through:
 
 ## 🎯 Current Focus
 
-- Python-based automation (Selenium & Playwright)  
+- Python-based automation (**Selenium & Playwright**)  
 - API testing & backend validation  
 - SQL & data-level verification  
-- CI/CD integration (GitHub Actions)  
+- CI/CD integration (**GitHub Actions**)  
 
 ---
 
 ## 🧠 Core Expertise
 
-- UI Automation (Selenium, Playwright)  
-- API Testing (Postman, REST Assured, Requests)  
-- BDD (Cucumber)  
-- Test Architecture (Page Object Model)  
-- CI/CD Pipelines (GitHub Actions, Jenkins)  
-- Performance Testing (JMeter)  
+- UI Automation (**Selenium, Playwright**)  
+- API Testing (**Postman, REST Assured, Requests**)  
+- BDD (**Cucumber**)  
+- Test Architecture (**Page Object Model**)  
+- CI/CD Pipelines (**GitHub Actions, Jenkins**)  
+- Performance Testing (**JMeter**)  
 - Dockerized test environments  
 
 ---
